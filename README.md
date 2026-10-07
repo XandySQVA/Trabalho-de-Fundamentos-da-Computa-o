@@ -1,3 +1,4 @@
 Alunos:
-  Alexandre Silveira Queiroz
-  Allana Caren Ferreira Rodrigues
+  Alexandre Silveira Queiroz |
+  Allana Caren Ferreira Rodrigues |
+  Gizely Sousa Matos |
