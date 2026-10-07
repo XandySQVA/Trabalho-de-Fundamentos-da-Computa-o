@@ -1,4 +1,4 @@
 Alunos:
   Alexandre Silveira Queiroz |
   Allana Caren Ferreira Rodrigues |
-  Gizely Sousa Matos |
+  Gizely Sousa Matos | Isabelly Kristiny Macedo Gusmão
